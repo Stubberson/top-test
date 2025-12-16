@@ -1,1 +1,2 @@
 Hello world! This is Tuukka calling while learning Git, GutHub, and VSCode.
+Testing out the commit messaging and working only within VSCode.
