@@ -7,11 +7,36 @@
         <title>This is the tab title</title>
     </head>
     <body> <!-- The body element is always below the head element.-->
-        <!-- Some basic elements. -->
-        <h1>This is the actual page title!</h1> <!-- This will be the actual title shown on the page. -->
+        <p>HEADING + PARAGRAPH</p>
+        <h1>This is an H1 heading</h1>
+        <!-- h6 is the smallest/lowest heading level -->
+        <h6>This is an H6 heading</h6> 
         <p>This is a paragraph.</p>
         <p>This is another <strong>strong</strong> paragraph.</p>
         <p>This is an <em>emphasized</em> paragraph.</p>
         <p>This is should be <del>deleted</del> and this should be <mark>marked</mark>. This is <ins>underlined</ins>.</p>
+
+        <p>LISTS</p>
+        <ul>
+            <li>Item one</li>
+            <li>Item two</li>
+        </ul>
+        <!-- Unordered list within an ordered list -->
+        <ol> 
+            <li>
+                Ordered list item with unordered list items
+                <ul>
+                    <li>Item one</li>
+                    <li>Item two</li>
+                </ul>
+            </li>
+            <li>Another ordered item</li>
+        </ol>
+
+        <p>LINKS</p>
+        <!-- The target="_blank" attribute opens a new window. rel="noreferrer" adds security and privacy -->
+        <p>This is an absolute link: <a href="https://www.datocms-assets.com/129288/1734105343-homepage_header.png" target="_blank" rel="noreferrer">Check out this chicken!</a></p>
+        <!-- The ./pages/about.html ensures that the link works -->
+        <p>This is a relative link: <a href="./pages/about.html">About Page</a></p>
     </body>
 </html>
