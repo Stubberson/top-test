@@ -1,6 +1,8 @@
-# Odin Project
-This will be my repo for learning web development with [The Odin Project](https://www.theodinproject.com/).
-It will be a lot of testing and trial and error, but I am excited to learn.
+# The Odin Project
+This is my repo for learning web development with [The Odin Project](https://www.theodinproject.com/).
 
-> [!NOTE] 
-> Markdown highlights (or whatever these are called) work like this!
+I'll update this README file every now and then to keep track of my progress.
+
+> [!DATE] 
+> @date
+> I have almost gone through the foundations of HTML and CSS now.
