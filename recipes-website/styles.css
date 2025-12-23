@@ -24,6 +24,11 @@ body {
     display: block;
 }
 
+.top-row.recipe-page .cooking-logo:hover {
+    background-color: rgb(242, 242, 242);
+    border-radius: 8px;
+}
+
 .top-row .home-page-title {
     margin: 0 0 0 30px;
     font-weight: 700;
